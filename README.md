@@ -94,24 +94,14 @@ Cada módulo puede tener su propio `README.md` con instrucciones específicas de
 
 ---
 
-## Créditos y Autores
+## Autores
 
 - **Desarrollado por:** Omar Bermejo Osuna y Diego Araujo 
 - **Materia:** Tópicos de Inteligencia Artificial  
 - **Institución:** Instituto Tecnologico de Culiacán
 - **Periodo:** Agosto - Diciembre 2025  
 
----
-
-## Referencias Sugeridas
-
-- Russell, S., & Norvig, P. (2022). *Artificial Intelligence: A Modern Approach*. Pearson.  
-- Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.  
-- Wikipedia. *Artificial Intelligence*.  
-- MDPI. *Applications of AI and Metaheuristics in Optimization Problems*.  
-
----
-
+-- 
 ## Licencia
 
 Este repositorio se publica bajo la licencia **MIT**.  
