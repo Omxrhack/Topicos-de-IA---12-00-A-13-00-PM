@@ -96,9 +96,9 @@ Cada módulo puede tener su propio `README.md` con instrucciones específicas de
 
 ## Créditos y Autores
 
-- **Desarrollado por:** Omar Bermejo Osuna  
+- **Desarrollado por:** Omar Bermejo Osuna y Diego Araujo 
 - **Materia:** Tópicos de Inteligencia Artificial  
-- **Institución:** [Nombre de tu institución o universidad]  
+- **Institución:** Instituto Tecnologico de Culiacán
 - **Periodo:** Agosto - Diciembre 2025  
 
 ---
