@@ -1,6 +1,6 @@
 # Tópicos de Inteligencia Artificial – Grupo 12:00 a 13:00 PM
 
-**Autor:** Omar Bermejo Osuna  
+**Autor:** Omar Bermejo Osuna y Diego Araujo
 **Repositorio:** [Omxrhack / Tópicos de IA - 12:00 a 13:00 PM](https://github.com/Omxrhack/Topicos-de-IA---12-00-A-13-00-PM.git)  
 **Última actualización:** Octubre 2025  
 
