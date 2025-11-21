@@ -1,0 +1,8 @@
+flask
+flask-cors
+gunicorn
+opencv-python
+easyocr
+numpy
+pillow
+sqlite3-binary
