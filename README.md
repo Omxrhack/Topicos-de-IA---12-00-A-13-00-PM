@@ -34,6 +34,12 @@ Topicos-de-IA---12-00-A-13-00-PM/
 │   ├── src/                 # Implementación del algoritmo PSO
 │   ├── notebooks/           # Simulaciones y visualizaciones
 │   └── resultados/          # Mapas de sensores, métricas y gráficas
+|
+├── MODULO-4/                # Sistema detector de lacas
+│   ├── README.md            # Detalles del proyecto y metodología
+│   ├── PLACATIN/            # Frontend
+│   ├── placas/backend       # Backend
+│   
 │
 └── README.md                # Documento principal (este archivo)
 ```
@@ -78,6 +84,10 @@ Incluye código fuente modular en Python, mapas generados con **GeoPandas**, y a
 
 ---
 
+### MÓDULO 4 – Sistema detecor de placas 
+EN ESA CARPETA SE ENCUENTRA TODO EL PROYECTO
+
+---
 ## Tecnologías y Herramientas
 
 | Categoría | Herramientas |
@@ -102,6 +112,7 @@ cd Topicos-de-IA---12-00-A-13-00-PM
 cd MODULO-1
 cd MODULO-2
 cd MODULO-3
+cd MODULO-4
 ```
 
 Cada módulo contiene su propio `README.md` con instrucciones detalladas de ejecución.
